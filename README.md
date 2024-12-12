@@ -1,5 +1,7 @@
 ## Hola! Soy Ramón DG 👋
 
+ 💛 JavaScript
+
 <!--
 **RamonDG-44/RamonDG-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
